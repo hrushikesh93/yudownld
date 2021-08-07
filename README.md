@@ -18,3 +18,9 @@ by just pasting the link of the video
 ##### there are two programs
 * one is executable file 
 * one is raw programe to download the video. it shows the different reslutions available *we can download the video manually*.
+
+
+**note**
+code are different for both files.
+
+i did not upload the code for .exe file
