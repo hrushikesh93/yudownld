@@ -21,6 +21,6 @@ by just pasting the link of the video
 
 
 **note**
-code are different for both files.
+* code are different for both files.
 
-i did not upload the code for .exe file
+* i did not upload the code for .exe file
